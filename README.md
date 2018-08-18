@@ -3,7 +3,7 @@ Tutorial cara menggunakan bot LINE NvStar (Unofficial)
 
 ### COMMAND LIST
 * [Help]
-   ### * [Help bot]
+    * [Help bot]
       * [!whatsnew]
       * [!restart]
       * [!runtime]
@@ -20,7 +20,7 @@ Tutorial cara menggunakan bot LINE NvStar (Unofficial)
       * [!myvideoprofile]
       * [!mycover]
       * [!premitag]
-   ### * [Help group]
+    * [Help group]
       * !tagall
       * ~tagall
       * !set
