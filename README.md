@@ -1,5 +1,8 @@
 # NvStar user tutorial
-Tutorial cara menggunakan bot LINE NvStar (Unofficial)
+Tutorial cara menggunakan bot LINE [NvStar](http://line.me/ti/p/~nvstar)Unofficial
+
+# NEED LIVE SUPPORT?
+hubungi via LINE [disini](http://line.me/ti/p/~kazereborn)
 
 ### COMMAND LIST
 * [Help]
